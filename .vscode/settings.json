@@ -1,0 +1,4 @@
+{
+    "python.pythonPath": "/home/shashikumar/python programs/celery/env/bin/python3",
+    "python.formatting.provider": "autopep8"
+}
